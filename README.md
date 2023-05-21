@@ -1,2 +1,2 @@
 # BTech-Final-Year-Project
-Machine learning project for cyberbullying detection and prevention
+BULLY FREE ZONE : CYBERBULLYING DETECTION AND PREVENTION APP
